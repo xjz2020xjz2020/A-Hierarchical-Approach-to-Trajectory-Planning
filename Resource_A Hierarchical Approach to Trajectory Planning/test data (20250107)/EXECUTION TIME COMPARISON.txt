@@ -1,0 +1,26 @@
+EXECUTION TIME COMPARISON with Ubuntu VS code (Coressponding with Table I  for the Paper):
+
+DP (traditional):
+13.5467ms  
+13.0868ms
+13.2705ms
+13.355ms
+13.6043ms
+13.724ms
+13.1965ms
+13.0837ms
+
+DP (JN):
+9.42544ms
+9.12727ms
+9.31164ms
+9.47754ms
+9.09454ms
+9.44159ms
+9.37741ms
+9.1798ms
+
+
+
+
+
